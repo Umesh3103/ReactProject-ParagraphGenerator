@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactProject-ParagraphGenerator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ReactProject-ParagraphGenerator/static/js/main.3deb24d6.chunk.js",
+    "main.js.map": "/ReactProject-ParagraphGenerator/static/js/main.3deb24d6.chunk.js.map",
+    "runtime-main.js": "/ReactProject-ParagraphGenerator/static/js/runtime-main.026e1fb8.js",
+    "runtime-main.js.map": "/ReactProject-ParagraphGenerator/static/js/runtime-main.026e1fb8.js.map",
+    "static/js/2.23ad3529.chunk.js": "/ReactProject-ParagraphGenerator/static/js/2.23ad3529.chunk.js",
+    "static/js/2.23ad3529.chunk.js.map": "/ReactProject-ParagraphGenerator/static/js/2.23ad3529.chunk.js.map",
+    "static/js/3.cbf7db75.chunk.js": "/ReactProject-ParagraphGenerator/static/js/3.cbf7db75.chunk.js",
+    "static/js/3.cbf7db75.chunk.js.map": "/ReactProject-ParagraphGenerator/static/js/3.cbf7db75.chunk.js.map",
+    "index.html": "/ReactProject-ParagraphGenerator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ReactProject-ParagraphGenerator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.23ad3529.chunk.js.LICENSE.txt": "/ReactProject-ParagraphGenerator/static/js/2.23ad3529.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.026e1fb8.js",
+    "static/js/2.23ad3529.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3deb24d6.chunk.js"
+  ]
+}
